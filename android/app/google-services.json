@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "975573768996",
+    "project_id": "videotranslateweb",
+    "storage_bucket": "videotranslateweb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975573768996:android:e0b4501bf7b5a3832f71b1",
+        "android_client_info": {
+          "package_name": "com.kelaxa.videoweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975573768996-aaqm9q05068opra2i0lfkucit2tpfhhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelaxa.videoweb",
+            "certificate_hash": "db26b4985bcdb9975ff0e19d924d20bd4ba6ad87"
+          }
+        },
+        {
+          "client_id": "975573768996-s20l6agaf98gcu93639bdnqj89n3i3pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiw585XhMTLtumN3xHk2LByn5MDjaNaDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975573768996-j08ghdj3soqjjakpc0qaukbvjo3p2qil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975573768996-vdb5q75g2gfg2n79p8br9ao8sdfm2k4f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kelaxa.videoweb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
